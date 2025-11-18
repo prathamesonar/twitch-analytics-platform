@@ -135,7 +135,7 @@ This project uses the exact tech stack specified in the requirements.
 
 To run this project, you must set up API keys in the backend's `.env` file.
 
-**File:** `backend/.env` (You must create this from `.env.example`)
+**File:** `backend/.env` 
 
 ```plaintext
 # Server Config
